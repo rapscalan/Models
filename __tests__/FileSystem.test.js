@@ -5,7 +5,7 @@ const {
   readJSON,
   readDirectoryJSON,
   updateJSON,
-  deleteFile
+  //deleteFile
 } = require('../lib/FileSystem');
 
 beforeAll(() => {
